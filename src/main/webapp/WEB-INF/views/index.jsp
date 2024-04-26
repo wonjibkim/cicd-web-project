@@ -3,7 +3,7 @@
 <html>
 <body>
     <h2>It's working on Tomcat server</h2>
-    <h2>wonjib PRJ</h2>
+    <h2>wonjib PRJ 2024 / 04 / 26</h2>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
